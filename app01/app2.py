@@ -12,6 +12,4 @@ for i in range(1, len(arr)):
     arr2 = row.split(',')
     print(f'{int(arr2[1])} * {int(arr2[2])} = {int(arr2[1]) * int(arr2[2])}')
         
-f.close()
-
-    
+f.close()  
